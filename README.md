@@ -13,3 +13,6 @@
 
 #### Listing all templates
 ```templates list```
+
+## Building from source
+To build this project, simply install Rust, cargo and then run ```cargo build --release``` in the project root.
