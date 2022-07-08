@@ -1,7 +1,5 @@
 # Templates CLI
-#### A CLI tool to manage project templates by the [Project Templates](https://marketplace.visualstudio.com/items?itemName=cantonios.project-templates) VSCode extension from your commandline
-
-<br/>
+### A CLI tool to manage project templates by the [Project Templates](https://marketplace.visualstudio.com/items?itemName=cantonios.project-templates) VSCode extension from your command line
 
 ## Usage
 #### Creating a new template from your current folder
