@@ -1,7 +1,7 @@
 [package]
 name = "templates"
 version = "1.0.0"
-description="A CLI tool to manage templates from the VSCode Extension 'Project Templates' (cantonios.project-templates)"
+description="A CLI tool to manage templates by the VSCode Extension 'Project Templates' (cantonios.project-templates)"
 edition = "2021"
 
 [dependencies]
